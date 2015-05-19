@@ -1,3 +1,5 @@
+**This is my forked repo of Prezto, it's basically the same with a few tweaks.  You probably don't want it**
+
 Prezto — Instantly Awesome Zsh
 ==============================
 
